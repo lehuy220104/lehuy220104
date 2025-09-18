@@ -15,7 +15,7 @@
 
 ✨ I turn ideas into simple, reliable products and can take a feature from planning to launch.  
 🎯 Open to <b>internship / part-time</b> opportunities.  
-🧠 Currently building an <b>AI/NLP capstone</b>: an assistant that connects employers with candidates via skills extraction and semantic matching (embeddings) with ranking.
+
 
 </div>
 
