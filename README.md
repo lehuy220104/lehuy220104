@@ -4,10 +4,10 @@
 </div> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Le+Nguyen+Duc+Huy;Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Le+Nguyen+Duc+Huy;Web+Developer" />
 </h1>
 
-<h3 align="center">CS junior @ Ho Chi Minh City Open University</h3>
+<h3 align="center">IT junior at Ho Chi Minh City Open University</h3>
 
 <br/>
 
